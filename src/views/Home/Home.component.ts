@@ -5,6 +5,6 @@ import { Component, Vue } from 'vue-property-decorator';
 export default class Login extends Vue {
     private name = '111'
     created(): void {
-        console.log('TS!!');
+        console.log('TS');
     }
 }
